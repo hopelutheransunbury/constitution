@@ -38,7 +38,7 @@ The purpose of the congregation shall be to proclaim and propagate the Christian
 
 . Members of the congregation shall be those who are designated as such at the time that this constitution is adopted, and those who are admitted thereafter; and who maintain their membership in accordance with the provisions of this constitution and its bylaws. There shall be no membership restrictions with respect to race, color, national origin or sex.
 . Members shall be classified as (a) baptized; (b) communicant, but unconfirmed; (c) confirmed; (d) voting.
-.. Baptized members are those persons who have been received by the Sacrament of Holy Baptism in this congregation, or having been previously baptized in the mane of the Triune God, have been received by proper transfer from other congregations or by affirmation of faith.
+.. Baptized members are those persons who have been received by the Sacrament of Holy Baptism in this congregation, or having been previously baptized in the name of the Triune God, have been received by proper transfer from other congregations or by affirmation of faith.
 .. Communicant, but unconfirmed members are those who have received training in the meaning and practice of the Lord's Supper and who participate in Communion but who have not yet been confirmed.
 .. Confirmed members are baptized persons who have been confirmed in this congregation, those who have been received by adult Baptism, or by transfer as confirmed members from other congregation, or baptized persons received by affirmation of faith.
 .. Voting members shall be those who are confirmed members in good standing, as provided by the bylaws.
@@ -98,16 +98,26 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 . The congregation shall adopt such bylaws as may from time to time be necessary. No bylaw may conflict with this constitution.
 . Bylaws may be adopted or amended at any legally called and conducted meeting of the congregation by a two-thirds majority vote of those present and voting.
 
-== ARTICLE XII - AMENDMENTS
+== ARTICLE XII - AMENDMENTS & VERSION TRACKING
 
 . The doctrinal basis and the confessional subscription contained in xref:ARTICLE II - CONFESSION OF FAITH[Article II], and this paragraph of xref:ARTICLE XII - AMENDMENTS[Article XII] shall be unalterable; and no amendment to this constitution shall conflict therewith.
 . A proposed amendment to this constitution shall be:
-.. read at a public service of the congregation or mailed to the voting members not less than thirty days before the legally called meeting at which it is to be considered;
+.. proposed as a series of differences between the current state of the constitution and the proposal;
+.. accompanied by a brief explanation of the reasoning for each change or appropriate semantic grouping of changes;
+.. accompanied by a list of the names of all parties proposing said amendment;
+.. read at a public service of the congregation or mailed to the voting members not less than thirty (30) days before the legally called meeting at which it is to be considered;
+... a web hyperlink thereto (if it exists) shall be emailed to all congregants whose email addresses are included in the parish records at least ten (10) days prior to the legally called meeting at which it is to be considered;
 .. approved without change at the legally called meeting following its announcement, by a majority vote of those present and voting;
 .. ratified without further change at the next semi-annual meeting by a two-thirds vote of those present and voting.
 . If a proposed amendment fails of adoption, it may be amended by a majority vote of those present and voting, and adopted without change by a two-thirds majority of those present and voting at the next semi-annual meeting.
 . At least once every five (5) years the council shall appoint a constitutional committee consisting of a chairman and four members to review the constitution in consultation with the synod. Any changes felt necessary by the committee are to be brought before the congregation at the next semi-annual meeting.
 . At least once every five (5) years the council shall appoint a constitution committee consisting of a chairman and four members to review the constitution in consultation with the synod. Any changes felt necessary by the committee are to be brought before the congregation at the next semi-annual meeting for action as outlined above.
+. In order to encourage transparency and easy accessibility,
+.. this constitution shall be kept in version control (Git), accessible online;
+.. the reasons for all amendments and the names of those suggesting said amendments shall be kept in the commit log;
+.. upon request, a paper copy of any present or previous version of the constitution shall be made available to any member or potential member of Hope Evangelical Lutheran Church.
+
+
 
 = BYLAWS
 
