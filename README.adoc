@@ -115,7 +115,8 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 . In order to encourage transparency and easy accessibility,
 .. this constitution shall be kept in version control (Git), accessible online;
 .. the reasons for all amendments and the names of those suggesting said amendments shall be kept in the commit log;
-.. upon request, a paper copy of any present or previous version of the constitution shall be made available to any member or potential member of Hope Evangelical Lutheran Church.
+.. upon request, a paper copy of any present or previous version of the constitution shall be made available to any member or potential member of Hope Evangelical Lutheran Church;
+.. a copy of this constitution shall be provided to all potential members undergoing adult confirmation or wishing to transfer membership.
 
 
 
