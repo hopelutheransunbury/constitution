@@ -4,7 +4,7 @@ In the name of the Father, and of the Son, and of the Holy Spirit, Amen.
 
 == Preamble
 
-Recognizing our unity in Christ and our common practice in the Christian faith; desiring to express our fellowship in worship and work; knowing our spiriual needs; mindful of our Christian privileges and duties, and wishing to observe orderly cooperation, we adopt the following constitution:
+Recognizing our unity in Christ and our common practice in the Christian faith; desiring to express our fellowship in worship and work; knowing our spiritual needs; mindful of our Christian privileges and duties, and wishing to observe orderly cooperation, we adopt the following constitution:
 
 == ARTICLE I - NAME AND INCORPORATION
 
@@ -12,7 +12,7 @@ The name of the congregation shall be Hope Evangelical Lutheran Church. The cong
 
 == ARTICLE II - CONFESSION OF FAITH
 
-The congregation accepts all the canonical books of the Old and New Testaments as a whole and in all their parts as the divinely inspired, revealed, and inerrant Word of God and submits to this as the only infallible authority in all matters of faith and life. As brief and true statements of the doctrines of the Word of God, the congregation accepts and confesses the following Symbols, subscription to which shall be required of all its members: (1) the ancient ecumenical Creeds the Apostolic, the Nicene, and the Athanasian; (2) the Unaltered Augsburg Confession and Luther's Small Catechism. As further elaboration of and in accord with these Lutheran Symbols, the congregation also receives the other documents in the Book of Concord of 1580: the Apology, Luther's Large Catechism, the Smalcald Articles and the Formula of Concord; and recognizes them as normative for its theology. The congretation accepts without reservation the symbolical books of the evangelical Lutheran Church, not insofar as, but because they are the presentation and explanation of the pure doctrine of the Word of God and a summary of the faith of the evangelical Lutheran Church.
+The congregation accepts all the canonical books of the Old and New Testaments as a whole and in all their parts as the divinely inspired, revealed, and inerrant Word of God and submits to this as the only infallible authority in all matters of faith and life. As brief and true statements of the doctrines of the Word of God, the congregation accepts and confesses the following Symbols, subscription to which shall be required of all its members: (1) the ancient ecumenical Creeds the Apostolic, the Nicene, and the Athanasian; (2) the Unaltered Augsburg Confession and Luther's Small Catechism. As further elaboration of and in accord with these Lutheran Symbols, the congregation also receives the other documents in the Book of Concord of 1580: the Apology, Luther's Large Catechism, the Smalcald Articles and the Formula of Concord; and recognizes them as normative for its theology. The congregation accepts without reservation the symbolical books of the evangelical Lutheran Church, not insofar as, but because they are the presentation and explanation of the pure doctrine of the Word of God and a summary of the faith of the evangelical Lutheran Church.
 
 == ARTICLE III - PURPOSE
 
@@ -38,7 +38,7 @@ The purpose of the congregation shall be to proclaim and propagate the Christian
 
 . Members of the congregation shall be those who are designated as such at the time that this constitution is adopted, and those who are admitted thereafter; and who maintain their membership in accordance with the provisions of this constitution and its bylaws. There shall be no membership restrictions with respect to race, color, national origin or sex.
 . Members shall be classified as (a) baptized; (b) communicant, but unconfirmed; (c) confirmed; (d) voting.
-.. Baptized members are those persons who have been received by the Sacrament of Holy Baptism in this congregation, or having been previously baptized in the mane of the Triune God, haave been received by proper transfer from other congregations or by affirmation of faith.
+.. Baptized members are those persons who have been received by the Sacrament of Holy Baptism in this congregation, or having been previously baptized in the mane of the Triune God, have been received by proper transfer from other congregations or by affirmation of faith.
 .. Communicant, but unconfirmed members are those who have received training in the meaning and practice of the Lord's Supper and who participate in Communion but who have not yet been confirmed.
 .. Confirmed members are baptized persons who have been confirmed in this congregation, those who have been received by adult Baptism, or by transfer as confirmed members from other congregation, or baptized persons received by affirmation of faith.
 .. Voting members shall be those who are confirmed members in good standing, as provided by the bylaws.
@@ -81,7 +81,7 @@ At a special meeting held in May, the congregation shall elect individuals to fi
 . Vice-President who serves in this capacity for one year and assumes the presidency the following year. During the year of serving as Vice-President, this person may also serve in another council position.
 . Secretary for a two year term and is elected in even years.
 . Treasurer for a two year term and is elected in odd years.
-. and the chairpeople of the following committees for a one year term. The council may decide to combine one or more committees for a particular term. If so, there would be one chairperson for that combined committee with one vote on the council:
+. and the chairs of the following committees for a one year term. The council may decide to combine one or more committees for a particular term. If so, there would be one chairperson for that combined committee with one vote on the council:
 .. Elders
 .. Outreach/Mission
 .. Worship
@@ -91,7 +91,7 @@ At a special meeting held in May, the congregation shall elect individuals to fi
 .. Fellowship
 . Elders for two year terms. The number to serve as elder will vary with the size of the congregation as indicated in the bylaws.
 
-No person shall be eligible to serve in the same capacity on the Church Council for more than four (4) successive terms. The duties of the officers and elders of the congregation shall be those provided in the bylaws. The officers of the congregation and the chairpeople of the committees together with the pastor shall constitute the Church Council. The president, the vice-president, and secretary of the congregation shall serve in those same as president, vice-president, and secretary of the Church Council respectively.
+No person shall be eligible to serve in the same capacity on the Church Council for more than four (4) successive terms. The duties of the officers and elders of the congregation shall be those provided in the bylaws. The officers of the congregation and the chairs of the committees together with the pastor shall constitute the Church Council. The president, the vice-president, and secretary of the congregation shall serve in those same as president, vice-president, and secretary of the Church Council respectively.
 
 == ARTICLE XI - BYLAWS
 
@@ -100,7 +100,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 
 == ARTICLE XII - AMENDMENTS
 
-. The doctrinal basis and the confessional subscription contained in Article II, and this paragraph of Article XII shall be unalterable; and no amendment to this constitution shall conflict therewith.
+. The doctrinal basis and the confessional subscription contained in xref:ARTICLE II - CONFESSION OF FAITH[Article II], and this paragraph of xref:ARTICLE XII - AMENDMENTS[Article XII] shall be unalterable; and no amendment to this constitution shall conflict therewith.
 . A proposed amendment to this constitution shall be:
 .. read at a public service of the congregation or mailed to the voting members not less than thirty days before the legally called meeting at which it is to be considered;
 .. approved without change at the legally called meeting following its announcement, by a majority vote of those present and voting;
@@ -112,7 +112,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 = BYLAWS
 
 == PART I - COMMUNION PARTICIPATION
-(Cf. Article II of Constitution)
+(Cf. xref:ARTICLE II - CONFESSION OF FAITH[Article II of the Constitution])
 
 . This congregation invites all of its members who have been prepared to receive the Sacrament to participate regularly in Holy Communion
 . Preparation for Holy Communion will normally be provided for persons as young as ten years of age.
@@ -123,17 +123,15 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 . Record of participation in Holy Communion shall be maintained. If a member of another congregation communes, notice shall be sent to the pastor of that congregation.
 
 == PART II - CONFLICTING LOYALTIES
-(Cf. Article II of Constitution)
+(Cf. xref:ARTICLE II - CONFESSION OF FAITH[Article II of the Constitution])
 
 . While the buildings of the congregation shall be open to all people to share in its worship, instruction, pastoral care, and fellowship, the congregation rejects all fellowship with organizations which are avowedly religious and which practice forms of religion without confessing faith in the Triune God and in Jesus Christ as the eternal Son of God incarnate to be our only Savior from sin, and which thus teach salvation by works.
 . Ceremonies of such organizations indicated above shall not be permitted in the buildings or premises of the congregation.
 
 == PART III - MEMBERSHIP
-(Cf. Article V of Constitution)
+(Cf. xref:ARTICLE V - MEMBERSHIP IN THE CONGREGATION[Article V of the Constitution])
 
-[upperalpha]
 . Baptized Members
-[arabic]
 .. A child, one or both of whose parents or guardians are members of the congregation shall, upon receiving Baptism, become a baptized member.
 .. A child, neither of whose parents or guardians is a member of this congregation, shall upon receiving Baptism, become a baptized member of this congregation, unless for good reason the child is to be a baptized member of another congregation, in which case membership shall be transferred to that congregation.
 .. A child baptized in another congregation shall be received as a baptized member in the congregation when a transfer has been received.
@@ -141,105 +139,88 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 .. When one or both parents of baptized children are received into the membership of the congregation such children should be received as baptized members with the consent of the member parents or parents.
 .. When the parents of a baptized child are not themselves members of the Lutheran Church but move into the area served by this congregation and desire to have their child put within the pastoral care of this congregation, the child may be received as a baptized member.
 . Confirmed Members
-[arabic]
 .. A baptized adult, not previously a confirmed member of a Lutheran congregation, shall become a confirmed member of this congregation after having received instruction, having given evidence of adequate understanding of the teachings of the Word of God as confessed by the Lutheran Church, and having publicly affirmed his faith.
 .. A baptized member of the congregation shall become a confirmed member through the rite of confirmation, except that an adult who has become a baptized member in accordance with the provisions of section A, 4 of this part of the bylaws shall be considered a confirmed member without participation in the rite of confirmation.
-.. An applicant for membership who presents a Letter of Transfer which certifies that the applicant is a confirmed member in good standing of a Lutheran congregation sahll become a confirmed member of the congregation upon the approval of the Church Council. The acceptance of the applicant shall be reported to the congregation.
+.. An applicant for membership who presents a Letter of Transfer which certifies that the applicant is a confirmed member in good standing of a Lutheran congregation shall become a confirmed member of the congregation upon the approval of the Church Council. The acceptance of the applicant shall be reported to the congregation.
 .. An applicant for membership who presents evidence of confirmation in a Lutheran congregation but does not have a Letter of Transfer shall be admitted to confirmed membership when the Church Council has determined that the applicant meets the standards of Christian faith and life indicated in the constitution and bylaws and has reaffirmed that faith before the congregation.
 . Voting Members +
 The register of voting member shall be available at all regularly called meetings of the congregation and shall consist of:
-[arabic]
 .. those who are confirmed member and have reached the age of 16;* and
 .. those who partake of Holy Communion, and
 .. those who participate in the life and worship of the congregation. +
 +
 *Except where it becomes necessary to conform to state law and the legal age of 18.
 . Pastoral Care of Membership
-[arabic]
 .. The congregation shall, in the event of the removal of a member from the community it serves, encourage the member to request transfer to a Lutheran congregation which can serve him or her effectively. Should the member fail to request a transfer, a Lutheran congregation in the community of his residence shall be notified.
 .. A confirmed member in good standing desiring to change his membership to another congregation shall, upon request, receive a Letter of Transfer.
 .. A confirmed member who does not, for a period of 6 months, partake of Holy Communion, and does not appear to desire to participate in the life and worship of the congregation shall be contacted by the pastor or the congregation's officers and encouraged by them to active membership. If, during the next 6 months the confirmed member does not actively participate, that member's name shall be removed from the membership roster of the congregation but be retained on a responsibility list as one who is in special need of the congregation's prayer and concern and be so notified.
-.. A person removed from the membership roster by the preceding action of the bylaws and who desires reinstatement shall make written request to council. Council shall submit such requests to the congregation at the next semi-annual meeting for action. If approved, said person shall be eligible to vote at the following semi-annual congregation metting and be restored to all rights and privileges of active membership.
+.. A person removed from the membership roster by the preceding action of the bylaws and who desires reinstatement shall make written request to council. Council shall submit such requests to the congregation at the next semi-annual meeting for action. If approved, said person shall be eligible to vote at the following semi-annual congregation meeting and be restored to all rights and privileges of active membership.
 .. A child, neither of whose parents of guardians is a member of the congregation, may be removed from the roster of baptized member if that child fails to participate in the life and worship of the congregation.
-. Discipline (Cf. Article VI of Constitution)
+. Discipline (Cf. xref:ARTICLE VI - DISCIPLINE[Article VI of the Constitution])
 In exercising discipline as provided in the constitution, the following shall be the procedure:
-[arabic]
 .. The board of elders will be concerned with discipline in the church. Should they become aware of a need for discipline, a member of the elders shall speak with the individual involved with the hope for reconciliation and, if needed, repentance. If the discipline concern remains, the board of elders will seek to have a meeting together with the individual. If the individual will not cooperate in such a meeting, the board of elders will send a registered letter with the reason for the meeting stated and a specific date and time given for the meeting. If after meeting with the individual (or if it has been established that the individual will not cooperate by meeting as described above) the elders unanimously feel that discipline is to be taken, they will make their recommendation to the Church Council.
 .. A person who is requested to appear before the Church Council for possible discipline, shall be advised in writing no less than ten days prior to the hearing. The written notice shall include the time and place of the hearing and shall specify the exact reason for the possible discipline. If that person fails to appear at the time and place without valid excuse, the Church Council may proceed with the hearing and may reach its conclusion in the absence of that person.
 .. Should the person be found guilty by a two-thirds vote of the members of the Church Council, the Council shall impose suspension from membership and denial of the Sacraments until proof is given of sufficient repentance. The action of the Church Council shall be in writing and delivered by registered letter. The individual's right to appeal to the congregational voters meeting will be described in the same registered mailing. The right to appeal will expire, and the discipline take affect, 30 days after the receipt of the registered mailing.
 
 == PART IV - THE PASTOR
-(Cf. Article VIII of the Constitution)
+(Cf. xref:ARTICLE VIII - THE PASTOR[Article VIII of the Constitution])
 
 . When the congregation has voted to call a pastor, it shall issue a Letter of Call to the pastor-elect. It shall be signed by the chairman and the secretary of the meeting at which the Call was voted. A Call to a member of the clergy to be an assistant pastor shall be issued only with the concurrence of the pastor of the congregation and in accordance with the provisions of this paragraph.
 . The call shall normally be for an indefinite time. A call issued to an assistant pastor may be for a definite.
 . If a pastor receives a Call to another ministry, the pastor shall consult the Church Council, or, if desired, the congregation, before reaching a decision. The pastor shall announce a decision as quickly a as possible, normally within three weeks. When a Call has been accepted, the pastor's ministry in this congregation shall be terminated as soon as possible, normally within a month.
 
 == PART V - MEETINGS OF THE CONGREGATION
-(Cf. Article IX of the Constitution)
+(Cf. xref:ARTICLE IX - MEETINGS OF THE CONGREGATION[Article IX of the Constitution])
 
 . Announcement of the time and place of the semi-annual meetings of the congregation shall be made at two public services immediately preceding the meeting, said services to be at least a week apart, and in such publications as the congregation or the pastor may periodically issue, or by written notice to the voting members mailed not less than ten days in advance of the meeting.
 . The current rosters of voting, confirmed, and baptized members shall be available at each meeting to the congregation.
 . The semi-annual meetings shall receive reports from all the committees of the congregation. Such reports, including a financial statement, shall be submitted in writing to the pastor not less than ten days before the meeting.
-. Elections shall be held in accordance with Article X of this Constitution.
+. Elections shall be held in accordance with xref:ARTICLE X - OFFICERS, COMMITTEES AND ELDERS[Article X] of this Constitution.
 . Unless otherwise ordered, parliamentary procedures shall be in accordance with Robert's Rules of Order.
 
 == PART VI - OFFICERS, COMMITTEES AND ELDERS
-(Cf. Article X of the Constitution)
+(Cf. xref:ARTICLE X - OFFICERS, COMMITTEES AND ELDERS[Article X of the Constitution])
 
-[upperalpha]
 . ELIGIBILITY AND DUTIES OF MEMBERS OF CHURCH COUNCIL
-[arabic]
 .. Only a voting member of the congregation, 18 years of age or over shall be eligible to serve on the Church Council.
 .. The president shall preside at meetings of the Church Council and the congregation.
 .. The vice-president shall preside at meetings of the Church Council and the congregation in the absence of the president.
 .. The secretary shall keep the minutes of the Church Council and of the congregation and have custody of the archives of the congregation.
 .. The treasurer shall be responsible for all funds of the congregation and oversee the receipt and disbursement of funds in accordance with the decisions of the congregation and the Church Council. All appointments, and/or services used, to support the treasurer must be approved by Church Council.
 . MEMBERSHIP AND MEETINGS OF THE COMMITTEES
-[arabic]
 .. The committees shall consist of a chairperson and the members recruited by that chairperson. Members shall be approved by the Council for a one year term.
 .. If a vacancy occurs on a committee, the chairperson together with Church Council will decide if it needs to be filed and if so shall strive to fill the position.
 . DUTIES AND RESPONSIBILITIES OF THE COMMITTEES
-[arabic]
 .. Each committee shall report on its activities as the semi-annual meetings of the congregation and at such other times as the congregation may decide.
-[loweralpha]
 ... Outreach/Mission Committee
-[arabic]
 .... shall be involved in caring for the physical and spiritual needs of those outside the congregation
 .... shall be involved in a regular schedule of visitations to prospective members
 .... shall be concerned with the work of the church throughout the world
 ... Worship Committee
-[arabic]
-.... shall be concerned with the orderly conduct of the worship service. The committee shall be responsible for: ushers, acolytes, greeters, nursery, music and choir robes, altar and vestiments, flowers, hymnals, bulletins, communion, seasonal celebrations - Lent, Palm Sunday, Easter, Pentecost, Reformation, Advent, Christmas and all other days of celebration in the church year.
+.... shall be concerned with the orderly conduct of the worship service. The committee shall be responsible for: ushers, acolytes, greeters, nursery, music and choir robes, altar and vestments, flowers, hymnals, bulletins, communion, seasonal celebrations - Lent, Palm Sunday, Easter, Pentecost, Reformation, Advent, Christmas and all other days of celebration in the church year.
 ... Education Committee
-[arabic]
 .... shall set up and supervise the Sunday School (teachers, materials, teaching aids, and programs
 .... shall conduct a Bible school during a summer vacation
 .... shall plan for adult education
 .... shall provide for catechism instruction
 ... Stewardship Committee
-[arabic]
 .... shall elect a financial secretary
-.... shall encourge a stewardship education
+.... shall encourage a stewardship education
 .... shall be responsible for the audit of financial records
 ... Property Committee
-[arabic]
 .... shall maintain the church building and its premises
 ... Fellowship Committee
-[arabic]
 .... shall be responsible for the fellowship of the congregation
 .... shall plan for social gatherings throughout the year
 .... shall represent auxiliary and social groups within the congregation
 . MEETINGS OF THE CHURCH COUNCIL +
 +
 In addition to the provisions of the constitution, the following shall govern the Church Council in the conduct of its meetings
-[arabic]
 .. A quorum of any regular or special meeting shall be one-half of the membership.
 .. A member of the Church Council who is absent for two consecutive regular meetings shall be consulted by the president of the congregation; if a member is absent from three consecutive regular meetings without valid excuse, the Church Council may declare the office vacant.
 .. In the event of a vacancy in Church Council, the remaining council members will determine at their next meeting if the vacancy needs to be filled or if the duties of that person can be incorporated with the duties of another council member. If it is necessary to fill the position a temporary replacement will be appointed by Church Council. This appointment will be ratified by a special congregational voters meeting. The congregation will have at least 3 weeks notice before this meeting and may nominate other individuals up until one week before the meeting. No additional nominations will be considered one week before the voters meeting.
 .. A special meeting may be called by the pastor, the president, or any three members of the Church Council. Notice of such meeting shall be given not less than five days prior to the meeting and announced at a public service if one is held during that period.
 . DUTIES AND RESPONSIBILITIES OF THE CHURCH COUNCIL
-[arabic]
 .. Have general oversight of the life and work of the congregation and coordinate the activities of the committees of the congregation;
 .. Determine rosters of the baptized, the confirmed, and the voting members of the congregation;
 .. Perform such other duties and responsibilities as delegated by the congregation;
@@ -259,7 +240,7 @@ The Board of Elders will serve as the nominating committee. At a time at least 8
 +
 While either men or women may serve on this board, there are certain duties limited to men (defined in section H) due to how they pertain to the public office of the pastoral ministry. +
 +
-The nature of the duties of an elder requires that only those notted for their Christian knowledge, zeal, and experience in the spiritual work of Christ shall be elected. To be eligible to be an elder, someone must have served at least one full term on our Church Council and currently be regular in attendance at worship services and a Bible class. +
+The nature of the duties of an elder requires that only those noted for their Christian knowledge, zeal, and experience in the spiritual work of Christ shall be elected. To be eligible to be an elder, someone must have served at least one full term on our Church Council and currently be regular in attendance at worship services and a Bible class. +
 +
 The Board of Elders will all be elected by the congregation and will each serve two year terms. The size of the Board of Elders will reflect the size of the congregation with one elder for up to or a fraction of every 80 baptized members of the congregation roster with a minimum of 3 elders. +
 +
@@ -273,7 +254,6 @@ The elders will meet independent of the Church Council and will annually designa
 . DUTIES AND FUNCTIONS OF THE BOARD OF ELDERS +
 +
 The Board of Elders does not make final decisions, but will give recommendations and counsel to the Pastor, Church Council, and congregation. The elders shall:
-[arabic]
 .. Encourage and assist the Pastor in his work by word and action. Such assistance would I include prayer for the Pastor, distribution assistance for the Lord's Supper, assisting the Pastor in counseling with difficult cases and in finding peaceful and God pleasing solutions to personal problems within the congregation, and planning with the Pastor, and appropriate committees, items to assist the spiritual health of the congregation.
 .. Care for families as assigned them in liaison with the Pastor and Church Council. This care would include prayer for the families, contact when they have missed worship for several weeks, visits when in the hospital, support in times of crisis, whatever kind of visitation may be helpful. Individuals will also be encouraged to initiate contact with an elder if they have a concern, physical need, or spiritual need.
 
