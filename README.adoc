@@ -74,7 +74,7 @@ As an expression of the unity of the church in Christ the congregation recognize
 . The pastor and president of the Church Council shall be notified of the time and place at which a special meeting of the congregation is to be held.
 . Only the business for which a special meeting has been called shall be transacted at the meeting.
 
-== ARTICLE X - OFFICERS, COMMITTEES AND ELDERS
+== ARTICLE X - OFFICERS, COMMITTEES, ELDERS, AND FINANCIAL BOARD
 
 At a special meeting held in May, the congregation shall elect individuals to fill open positions of the Church Council, Board of Elders, and Financial Board for the next term beginning the first Sunday of July as follows:
 
@@ -188,6 +188,18 @@ In exercising discipline as provided in the constitution, the following shall be
 . Unless otherwise ordered, parliamentary procedures shall be in accordance with Robert's Rules of Order.
 
 == PART VI - OFFICERS, COMMITTEES, ELDERS, AND FINANCIAL BOARD
+(Cf. xref:ARTICLE X - OFFICERS, COMMITTEES, ELDERS, AND FINANCIAL BOARD[Article X of the Constitution])
+
+. ELIGIBILITY AND DUTIES OF MEMBERS OF CHURCH COUNCIL
+.. Only a voting member of the congregation, 18 years of age or over shall be eligible to serve on the Church Council.
+.. The president shall preside at meetings of the Church Council and the congregation.
+.. The vice-president shall preside at meetings of the Church Council and the congregation in the absence of the president.
+.. The secretary shall keep the minutes of the Church Council and of the congregation and have custody of the archives of the congregation.
+.. The treasurer shall be responsible for all funds of the congregation and oversee the receipt and disbursement of funds in accordance with the decisions of the congregation and the Church Council. All appointments, and/or services used, to support the treasurer must be approved by Church Council.
+. MEMBERSHIP AND MEETINGS OF THE COMMITTEES
+.. The committees shall consist of a chairperson and the members recruited by that chairperson. Members shall be approved by the Council for a one year term.
+.. If a vacancy occurs on a committee, the chairperson together with Church Council will decide if it needs to be filed and if so shall strive to fill the position.
+. DUTIES AND RESPONSIBILITIES OF THE COMMITTEES
 .. Each board/committee shall report on its activities as the semi-annual meetings of the congregation and at such other times as the congregation may decide.
 ... Outreach/Mission Committee
 .... shall be involved in caring for the physical and spiritual needs of those outside the congregation
