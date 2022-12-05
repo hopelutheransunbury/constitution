@@ -55,7 +55,7 @@ The purpose of the congregation shall be to proclaim and propagate the Christian
 
 == ARTICLE VII - WORSHIP
 
-As an expression of the unity of the church in Christ the congregation recognizes the desirability of conforming to the practices of other Lutheran congregations.
+As an expression of the unity of the church in Christ the congregation recognizes the desirability of conforming to the practices of other Lutheran congregations in the context of the historical Christian Church.
 
 == ARTICLE VIII - THE PASTOR
 
@@ -84,14 +84,26 @@ At a special meeting held in May, the congregation shall elect individuals to fi
 . and the chairs of the following committees for a one year term. The council may decide to combine one or more committees for a particular term. If so, there would be one chairperson for that combined committee with one vote on the council:
 .. Elders
 .. Outreach/Mission
-.. Worship
-.. Education
-.. Stewardship
 .. Property
 .. Fellowship
 . Elders for two year terms. The number to serve as elder will vary with the size of the congregation as indicated in the bylaws.
 
 No person shall be eligible to serve in the same capacity on the Church Council for more than four (4) successive terms. The duties of the officers and elders of the congregation shall be those provided in the bylaws. The officers of the congregation and the chairs of the committees together with the pastor shall constitute the Church Council. The president, the vice-president, and secretary of the congregation shall serve in those same as president, vice-president, and secretary of the Church Council respectively.
+
+The church shall have guilds as enumerated below:
+
+. Altar Guild
+. Sunday School Guild
+. Vocational Education Guild
+
+The aforementioned guilds shall
+. have heads nominated yearly by the Board of Elders
+.. who are voted upon by the congregation requiring a majority vote
+.. who report directly to the Board of Elders and the Pastor(s) according to a mutually-agreed-upon schedule
+.. and who report biannually to the Council; and
+. the heads of the guilds shall give opportunity for all interested congregants to become guild members, and to learn about and participate in the activities associated with each guild.
+
+At the same special meeting held in May in which Council members are elected, the Congregation shall vote upon the nominees of the Board of Elders to fill open positions as heads of the Church Guilds for the next term beginning the first Sunday of July. Terms for heads of Church Guilds shall extend one year from the date of instatement to the following first Sunday of July, and there shall be no term limits for heads of Church Guilds.
 
 == ARTICLE XI - BYLAWS
 
@@ -200,27 +212,31 @@ In exercising discipline as provided in the constitution, the following shall be
 .. If a vacancy occurs on a committee, the chairperson together with Church Council will decide if it needs to be filed and if so shall strive to fill the position.
 . DUTIES AND RESPONSIBILITIES OF THE COMMITTEES
 .. Each committee shall report on its activities as the semi-annual meetings of the congregation and at such other times as the congregation may decide.
+.. The chairs of the following committees shall be represented on the Council.
 ... Outreach/Mission Committee
 .... shall be involved in caring for the physical and spiritual needs of those outside the congregation
 .... shall be involved in a regular schedule of visitations to prospective members
 .... shall be concerned with the work of the church throughout the world
-... Worship Committee
-.... shall be concerned with the orderly conduct of the worship service. The committee shall be responsible for: ushers, acolytes, greeters, nursery, music and choir robes, altar and vestments, flowers, hymnals, bulletins, communion, seasonal celebrations - Lent, Palm Sunday, Easter, Pentecost, Reformation, Advent, Christmas and all other days of celebration in the church year.
-... Education Committee
-.... shall set up and supervise the Sunday School (teachers, materials, teaching aids, and programs
-.... shall conduct a Bible school during a summer vacation
-.... shall plan for adult education
-.... shall provide for catechism instruction
-... Stewardship Committee
-.... shall elect a financial secretary
-.... shall encourage a stewardship education
-.... shall be responsible for the audit of financial records
 ... Property Committee
 .... shall maintain the church building and its premises
 ... Fellowship Committee
 .... shall be responsible for the fellowship of the congregation
 .... shall plan for social gatherings throughout the year
 .... shall represent auxiliary and social groups within the congregation
+.. Guilds
+... Altar Guild
+.... shall report directly to the Board of Elders and the Pastor(s) on a mutually-agreed-upon schedule
+.... shall report biannually to the Council
+.... shall be concerned with the orderly conduct of the worship service. The committee shall be responsible for: scheduling ushers, acolytes, and greeters; procuring music and choir robes, hymnals, and bulletins; ordering paraments and vestments; scheduling procurement of flowers; setup of communion, decorating for seasonal celebrations - Lent, Palm Sunday, Easter, Pentecost, Reformation, Advent, Christmas and all other days of celebration in the church year.
+... Sunday School Guild
+.... shall set up and supervise the Sunday School (teachers, materials, teaching aids, and programs
+.... shall conduct a Bible school during a summer vacation
+.... shall plan for adult education
+.... shall provide for catechism instruction
+... Vocational Education Guild
+.... shall elect a financial secretary -> move this point to be under the domain of "Financial Board"
+.... shall assist the pastor(s) in informing congregants about Church-condoned and Church-sponsored activities that are relevant to their vocation(s) in life, and place in life according to the Ten Commandments
+.... shall encourage and support the pastor(s) in his/their efforts to teach and shepherd the congregants with regard to their vocations.
 . MEETINGS OF THE CHURCH COUNCIL +
 In addition to the provisions of the constitution, the following shall govern the Church Council in the conduct of its meetings +
 .. A quorum of any regular or special meeting shall be one-half of the membership.
@@ -229,7 +245,7 @@ In addition to the provisions of the constitution, the following shall govern th
 .. A special meeting may be called by the pastor, the president, or any three members of the Church Council. Notice of such meeting shall be given not less than five days prior to the meeting and announced at a public service if one is held during that period.
 . DUTIES AND RESPONSIBILITIES OF THE CHURCH COUNCIL
 .. Have general oversight of the life and work of the congregation and coordinate the activities of the committees of the congregation;
-.. Determine rosters of the baptized, the confirmed, and the voting members of the congregation;
+.. Determine rosters of the baptized, the {confirmed}, and the voting members of the congregation;
 .. Perform such other duties and responsibilities as delegated by the congregation;
 .. Conduct regular meetings not less than once each month at such time and place as the Church Council may determine;
 .. Secure necessary staff other than pastor(s), such as administrative assistant, Christian day school teacher, business administrator, church musician, parish education director, parish secretary, parish worker or youth worker, intern, custodian, etc. and fix and review annually their salaries;
@@ -245,32 +261,29 @@ In addition to the provisions of the constitution, the following shall govern th
 The Board of Elders will serve as the nominating committee. At a time at least 8 weeks before the May voters meeting, the nominating committee will make known to the congregation the offices which need to be filled. Members of the congregation will make their nominees, and/or their personal desire to serve, known to the nomination committee. Unless reasons of church discipline prohibit it, the nominating committee will speak with those nominated about the positions and whether they will accept the nomination. The nominating committee will also meet to consider who they would like to nominate for offices and speak with those individuals. The results of the nominating committee will be published at least 2 weeks before the voters meeting. No additional nominations will be considered one week before the voters meeting.
 . ELIGIBILITY, SIZE, AND MEETINGS OF THE BOARD OF ELDERS +
 +
-While either men or women may serve on this board, there are certain duties limited to men (defined in section on DUTIES AND FUNCTIONS OF THE BOARD OF ELDERS) due to how they pertain to the public office of the pastoral ministry. +
+The nature of the duties of an elder requires that only males noted for their Christian knowledge, zeal, and experience in the spiritual work of Christ shall be elected. To be eligible to be an elder, someone must have served at least one full term on our Church Council and regularly attend worship services. +
 +
-The nature of the duties of an elder requires that only those noted for their Christian knowledge, zeal, and experience in the spiritual work of Christ shall be elected. To be eligible to be an elder, someone must have served at least one full term on our Church Council and currently be regular in attendance at worship services and a Bible class. +
+The Board of Elders will be elected by the congregation and will each serve two year terms. +
 +
-The Board of Elders will all be elected by the congregation and will each serve two year terms. The size of the Board of Elders will reflect the size of the congregation with one elder for up to or a fraction of every 80 baptized members of the congregation roster with a minimum of 3 elders. +
+The size of the Board of Elders will reflect the size of the congregation with up to one elder per 80 baptized members of the congregation roster. It is understood to be preferable for the Board of Elders to be comprised of at least three members. +
 +
-A person may serve on the Board of Elders for as many terms as they are elected and desire to serve. However, they can serve as the elder's representative to the Church Council only two consecutive years. +
+One may serve on the Board of Elders for as many terms as he is elected and desires to serve. +
 +
 When a vacancy occurs in the Board of Elders, the Church Council will serve as the nomination committee to fill the vacancy. A special voters meeting will elect an elder to serve the completion of the term. There will be at least 3 weeks notice given before this special voters meeting. Nominations may be given to the president of the Church Council up to one week before the special voters meeting. +
 +
 No additional nominations will be considered one week before the voters meeting. +
 +
-The elders will meet independent of the Church Council and will annually designate their chair who will serve as a council member. It is possible for an elder to simultaneously hold another position on the Church Council.
+The elders will meet independent of the Church Council and will decide amongst themselves who to send as a representative to the Church Council. An elder may simultaneously hold another position on the Church Council.
 . DUTIES AND FUNCTIONS OF THE BOARD OF ELDERS +
 +
-The Board of Elders does not make final decisions, but will give recommendations and counsel to the Pastor, Church Council, and congregation. The elders shall:
+The elders shall:
 +
-.. Encourage and assist the Pastor in his work by word and action. Such assistance would I include prayer for the Pastor, distribution assistance for the Lord's Supper, assisting the Pastor in counseling with difficult cases and in finding peaceful and God pleasing solutions to personal problems within the congregation, and planning with the Pastor, and appropriate committees, items to assist the spiritual health of the congregation.
+.. Encourage and assist the Pastor in his work by word and action. Such assistance would I include prayer for the Pastor, assisting in the distribution of the Lord's Supper, assisting the Pastor in counseling with difficult cases and in finding peaceful and God pleasing solutions to personal problems within the congregation, and planning with the Pastor, and appropriate committees, items to assist the spiritual health of the congregation.
 .. Care for families as assigned them in liaison with the Pastor and Church Council. This care would include prayer for the families, contact when they have missed worship for several weeks, visits when in the hospital, support in times of crisis, whatever kind of visitation may be helpful. Individuals will also be encouraged to initiate contact with an elder if they have a concern, physical need, or spiritual need.
-
-+
-In keeping with teachings of the Lutheran Church Missouri Synod, the pastoral office is Scripturally narrowed to men. Therefore, only a man would be allowed to deliver a sermon or lead the worship service. It is also our intent to heed the strong recommendation of the Synod's Commission on Theology and Church Relations when it states: +
-"While some might argue that assisting the presiding minister in the distribution of the elements is not necessarily a distinctive function of the pastoral office, the commission strongly recommends that, to avoid confusion regarding the office of the public ministry and to avoid giving offense to the church, such assistance be limited to men" (_Women in the Church,_ Commission on Theology and Church Relations, Lutheran Church Missouri Synod, September 1985, page 47)
+.. Be responsible for oversight of any paid or unpaid roles in the congregation wherein the description thereof entails oversight by the Board of Elders.
 . NOMINATIONS AND ELECTION PROCESS FOR BOARD OF ELDERS +
 + 
-When elders are to be elected, the Church Council will serve as the nominating committee for the nomination of elders. At a time at least 8 weeks before the May voters meeting, the nominating committee will make known to the congregation the positions which need to be filled. Members of the congregation will make their nominees, and/or their personal desire to serve, known to the nominating committee. Unless the person does not fit the criteria for an elder described above, the nominating committee will speak with the nominee about the position and whether the individual will accept the nomination. The nominating committee will also meet to consider who they would like to nominate for elder and speak with those individuals. The results of the nominating committee will be published at least 2 weeks before the voters meeting. No additional nominations will be considered one week before the voters meeting.
+When elders are to be elected, the Church Council will serve as the nominating committee for the nomination of elders. At a time at least 8 weeks before the May voters meeting, the nominating committee will make known to the congregation the positions which need to be filled. Members of the congregation will make their nominees, and/or their personal desire to serve, known to the nominating committee. Unless the nominee does not fit the criteria for an elder described above, the nominating committee will speak with the him about the position and whether he will accept the nomination. The nominating committee will also meet to consider who they would like to nominate for elder and speak with them. The results of the nominating committee will be published at least two (2) weeks before the voters meeting. No additional nominations will be considered one week before the voters meeting.
 
 == PART VII - PARISH RECORDS
 
@@ -280,3 +293,9 @@ The records of the congregation shall be and remain the property of the congrega
 . the ministerial acts performed by the pastor;
 . the minutes of the meetings of the congregation and the Church Council, for which the secretary of the congregation shall be responsible;
 . the financial records of the congregation; for which the treasurer of the congregation shall be responsible.
+
+== Part VIII - FISCAL YEAR
+
+Effective January 1, 2024, the parish shall adhere to a fiscal year beginning January 1, and ending December 31st.
+
+Provisions shall be made by the financial board, financial secretary, and treasurer to introduce, to budget for, and to report finances associated with an Interim Fiscal Period between Fiscal Year 2022-2023 and Fiscal Year 2024.
