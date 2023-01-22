@@ -119,7 +119,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 
 = BYLAWS
 
-== PART I - COMMUNION PARTICIPATION
+== PART I - PARTICIPATION IN DIVINE SERVICE
 (Cf. xref:ARTICLE II - CONFESSION OF FAITH[Article II of the Constitution])
 
 . This congregation invites all of its members who have been prepared to receive the Sacrament to participate regularly in Holy Communion
@@ -129,6 +129,7 @@ No person shall be eligible to serve in the same capacity on the Church Council 
 *From _The Small Catechism in Contemporary English,_ +
 (C) 1968 Augsburg Publishing House and Fortress Press.
 . Record of participation in Holy Communion shall be maintained. If a member of another congregation communes, notice shall be sent to the pastor of that congregation.
+. Due to the importance of regularly congregating around Word and Sacrament, cancellation of Divine Service should be rare. In the event that such a cancellation might be necessary, e.g. due to severely inclement weather or other such emergency, a quorum consisting of the Pastor, an Elder, and the President of the Congregation may, by 2/3 majority, decide to cancel Divine Service. In the event of the absence or inability to contact the President of the Congregation, the Vice-President of the Congregation may act in his stead.
 
 == PART II - CONFLICTING LOYALTIES
 (Cf. xref:ARTICLE II - CONFESSION OF FAITH[Article II of the Constitution])
