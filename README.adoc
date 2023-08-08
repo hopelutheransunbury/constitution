@@ -74,9 +74,9 @@ As an expression of the unity of the church in Christ the congregation recognize
 . The pastor and president of the Church Council shall be notified of the time and place at which a special meeting of the congregation is to be held.
 . Only the business for which a special meeting has been called shall be transacted at the meeting.
 
-== ARTICLE X - OFFICERS, COMMITTEES AND ELDERS
+== ARTICLE X - OFFICERS, COMMITTEES, ELDERS, AND FINANCIAL BOARD
 
-At a special meeting held in May, the congregation shall elect individuals to fill open positions of the Church Council and Board of Elders for the next term beginning the first Sunday of July as follows:
+At a special meeting held in May, the congregation shall elect individuals to fill open positions of the Church Council, Board of Elders, and Financial Board for the next term beginning the first Sunday of July as follows:
 
 . Vice-President who serves in this capacity for one year and assumes the presidency the following year. During the year of serving as Vice-President, this person may also serve in another council position.
 . Secretary for a two year term and is elected in even years.
@@ -87,6 +87,7 @@ At a special meeting held in May, the congregation shall elect individuals to fi
 .. Property
 .. Fellowship
 . Elders for two year terms. The number to serve as elder will vary with the size of the congregation as indicated in the bylaws.
+. The Financial Board will be made up of the Pastor (non-voting member), one (1) Elder, the Church Treasurer, and three (3) elected at-large members. The three elected at large members will each serve for a three (3)-year term and can be re-elected. Candidates for the three at-large positions shall be recommended by the Board of Elders and the Pastor, and the Congregational voting and approval process shall follow according to (Cf. xref:PART VI - OFFICERS, COMMITTEES AND ELDERS[the By-Laws under Part VI])
 
 No person shall be eligible to serve in the same capacity on the Church Council for more than four (4) successive terms. The duties of the officers and elders of the congregation shall be those provided in the bylaws. The officers of the congregation and the chairs of the committees together with the pastor shall constitute the Church Council. The president, the vice-president, and secretary of the congregation shall serve in those same as president, vice-president, and secretary of the Church Council respectively.
 
@@ -131,7 +132,7 @@ At the same special meeting held in May in which Council members are elected, th
 
 = BYLAWS
 
-== PART I - COMMUNION PARTICIPATION
+== PART I - PARTICIPATION IN DIVINE SERVICE
 (Cf. xref:ARTICLE II - CONFESSION OF FAITH[Article II of the Constitution])
 
 . This congregation invites all of its members who have been prepared to receive the Sacrament to participate regularly in Holy Communion
@@ -141,6 +142,7 @@ At the same special meeting held in May in which Council members are elected, th
 *From _The Small Catechism in Contemporary English,_ +
 (C) 1968 Augsburg Publishing House and Fortress Press.
 . Record of participation in Holy Communion shall be maintained. If a member of another congregation communes, notice shall be sent to the pastor of that congregation.
+. Due to the importance of regularly congregating around Word and Sacrament, cancellation of Divine Service should be rare. In the event that such a cancellation might be necessary, e.g. due to severely inclement weather or other such emergency, a quorum consisting of the Pastor, an Elder, and the President of the Congregation may, by 2/3 majority, decide to cancel Divine Service. In the event of the absence or inability to contact the President of the Congregation, the Vice-President of the Congregation may act in his stead.
 
 == PART II - CONFLICTING LOYALTIES
 (Cf. xref:ARTICLE II - CONFESSION OF FAITH[Article II of the Constitution])
@@ -198,8 +200,8 @@ In exercising discipline as provided in the constitution, the following shall be
 . Elections shall be held in accordance with xref:ARTICLE X - OFFICERS, COMMITTEES AND ELDERS[Article X] of this Constitution.
 . Unless otherwise ordered, parliamentary procedures shall be in accordance with Robert's Rules of Order.
 
-== PART VI - OFFICERS, COMMITTEES AND ELDERS
-(Cf. xref:ARTICLE X - OFFICERS, COMMITTEES AND ELDERS[Article X of the Constitution])
+== PART VI - OFFICERS, COMMITTEES, ELDERS, AND FINANCIAL BOARD
+(Cf. xref:ARTICLE X - OFFICERS, COMMITTEES, ELDERS, AND FINANCIAL BOARD[Article X of the Constitution])
 
 . ELIGIBILITY AND DUTIES OF MEMBERS OF CHURCH COUNCIL
 .. Only a voting member of the congregation, 18 years of age or over shall be eligible to serve on the Church Council.
@@ -237,6 +239,22 @@ In exercising discipline as provided in the constitution, the following shall be
 .... shall elect a financial secretary -> move this point to be under the domain of "Financial Board"
 .... shall assist the pastor(s) in informing congregants about Church-condoned and Church-sponsored activities that are relevant to their vocation(s) in life, and place in life according to the Ten Commandments
 .... shall encourage and support the pastor(s) in his/their efforts to teach and shepherd the congregants with regard to their vocations.
+... Financial Board
+.... Only voting members of the congregation, in good standing, twenty-five (25) years of age or older shall be eligible to serve on the Financial Board.
+.... Financial Board members shall have experience in finance, and be able to demonstrate financial acumen.
+.... The board members shall elect to serve as Chair of the board on an annual basis.
+.... Duties
+..... Shall Provide an annual report to the congregation during the annual Congregational meeting on the board's activity.
+..... Shall Meet quarterly or more often as needs arise. All meetings shall be announced and open to the congregation.
+..... Shall Approve and establish, and may remove designated funds.
+..... Shall Approve or deny non-budgeted and budgeted expenditures over One-Thousand U.S. Dollars ($1,000) excluding Support Ministries (as outlined in the church budget) and up to Ten Percent (10%) of the total approved congregational budget brought to the board from the church council
+...... These amounts apply to a single transaction
+...... The board may ask for any additional information from council members. Once all information and questions are satisfied, the board will have up to 30 days to decide and provide notification back to church council.
+...... Approval is by majority vote, in the event of a vacancy, a tie vote is a no vote.
+..... Shall Approve any expenditure over Ten Percent (10%) of the approved congregational budget and present to the congregation in a called meeting (following the (Cf. xref:ARTICLE XII - AMENDMENTS & VERSION TRACKING[guidelines for calling a constitutional amendment meeting]), where a vote is taken by the congregation for approval or not, after the Financial Board has presented the proposal and how it aligns to our Church mission and goals.
+..... Shall Advise Church Council on annual church operating budget and the minimum amount of dollars to be retained as unrestricted for cash flow purposes.
+..... Shall be responsible for the audit of financial records
+..... Shall be responsible for recommending financial mechanisms (i.e. endowment funds) for large dollar donations and present to the congregation in a called meeting (following the (Cf. xref:ARTICLE XII - AMENDMENTS & VERSION TRACKING[guidelines for calling a constitutional amendment meeting]), where a vote is taken by the congregation for approval or not.
 . MEETINGS OF THE CHURCH COUNCIL +
 In addition to the provisions of the constitution, the following shall govern the Church Council in the conduct of its meetings +
 .. A quorum of any regular or special meeting shall be one-half of the membership.
@@ -284,6 +302,11 @@ The elders shall:
 . NOMINATIONS AND ELECTION PROCESS FOR BOARD OF ELDERS +
 + 
 When elders are to be elected, the Church Council will serve as the nominating committee for the nomination of elders. At a time at least 8 weeks before the May voters meeting, the nominating committee will make known to the congregation the positions which need to be filled. Members of the congregation will make their nominees, and/or their personal desire to serve, known to the nominating committee. Unless the nominee does not fit the criteria for an elder described above, the nominating committee will speak with the him about the position and whether he will accept the nomination. The nominating committee will also meet to consider who they would like to nominate for elder and speak with them. The results of the nominating committee will be published at least two (2) weeks before the voters meeting. No additional nominations will be considered one week before the voters meeting.
+. NOMINATIONS AND ELECTION PROCESS FOR THE FINANCIAL BOARD +
++
+When Financial Board at-large members are elected, the Board of Elders and Pastor will serve as the nominating committee for the nominating committee for the nomination of Financla Board at-large members. At a time at least eight (8) weeks before the annual congregational voters meeting, the nominating committee will make it known to the congregation the positions which need to be filled. Members of the congregation will make their nominees, and/or their personal desire to serve, known to the nominating committee. The nominating committee will also meet to consider who they would like to nominate. Unless the person does not fit the eligibility criteria for a Financial Board member listed above, the nominating committee will speak with the nominee about the position and whether the individual will accept the nomination. The results of the nominating committee will be published at least two (2) weeks prior to the voters meeting. No additional nominations will be considered one week before the voters meeting.
++
+The nominating committee will establish the process to seat the first Financial Board to stagger the terms of the three at-large positions.
 
 == PART VII - PARISH RECORDS
 
