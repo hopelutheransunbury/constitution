@@ -236,7 +236,6 @@ In exercising discipline as provided in the constitution, the following shall be
 .... shall plan for adult education
 .... shall provide for catechism instruction
 ... Vocational Education Guild
-.... shall elect a financial secretary -> move this point to be under the domain of "Financial Board"
 .... shall assist the pastor(s) in informing congregants about Church-condoned and Church-sponsored activities that are relevant to their vocation(s) in life, and place in life according to the Ten Commandments
 .... shall encourage and support the pastor(s) in his/their efforts to teach and shepherd the congregants with regard to their vocations.
 ... Financial Board
@@ -244,6 +243,7 @@ In exercising discipline as provided in the constitution, the following shall be
 .... Financial Board members shall have experience in finance, and be able to demonstrate financial acumen.
 .... The board members shall elect to serve as Chair of the board on an annual basis.
 .... Duties
+..... shall elect a financial secretary
 ..... Shall Provide an annual report to the congregation during the annual Congregational meeting on the board's activity.
 ..... Shall Meet quarterly or more often as needs arise. All meetings shall be announced and open to the congregation.
 ..... Shall Approve and establish, and may remove designated funds.
