@@ -85,7 +85,6 @@ At a special meeting held in May, the congregation shall elect individuals to fi
 .. Elders
 .. Outreach/Mission
 .. Property
-.. Fellowship
 . Elders for two year terms. The number to serve as elder will vary with the size of the congregation as indicated in the bylaws.
 . The Financial Board will be made up of the Pastor (non-voting member), one (1) Elder, the Church Treasurer, and three (3) elected at-large members. The three elected at large members will each serve for a three (3)-year term and can be re-elected. Candidates for the three at-large positions shall be recommended by the Board of Elders and the Pastor, and the Congregational voting and approval process shall follow according to (Cf. xref:PART VI - OFFICERS, COMMITTEES AND ELDERS[the By-Laws under Part VI])
 
@@ -96,6 +95,7 @@ The church shall have guilds as enumerated below:
 . Altar Guild
 . Sunday School Guild
 . Vocational Education Guild
+. Hospitality Guild
 
 The aforementioned guilds shall
 . have heads nominated yearly by the Board of Elders
@@ -221,10 +221,6 @@ In exercising discipline as provided in the constitution, the following shall be
 .... shall be concerned with the work of the church throughout the world
 ... Property Committee
 .... shall maintain the church building and its premises
-... Fellowship Committee
-.... shall be responsible for the fellowship of the congregation
-.... shall plan for social gatherings throughout the year
-.... shall represent auxiliary and social groups within the congregation
 .. Guilds
 ... Altar Guild
 .... shall report directly to the Board of Elders and the Pastor(s) on a mutually-agreed-upon schedule
@@ -238,6 +234,11 @@ In exercising discipline as provided in the constitution, the following shall be
 ... Vocational Education Guild
 .... shall assist the pastor(s) in informing congregants about Church-condoned and Church-sponsored activities that are relevant to their vocation(s) in life, and place in life according to the Ten Commandments
 .... shall encourage and support the pastor(s) in his/their efforts to teach and shepherd the congregants with regard to their vocations.
+... Hospitality Guild
+.... shall be responsible for coordinating the necessary logistics for church events, including arranging food, tables, chairs, and other essential equipment or supplies.
+.... shall assist in planning special events and social gatherings throughout the year, such as Soup Suppers, Table Talks, and the like.
+.... shall ensure that all gathering spaces are safe and clean before and after events other than Divine Service.
+.... shall act as the primary point of contact to coordinate logistics involving multiple auxiliary and social groups within the congregation.
 ... Financial Board
 .... Only voting members of the congregation, in good standing, twenty-five (25) years of age or older shall be eligible to serve on the Financial Board.
 .... Financial Board members shall have experience in finance, and be able to demonstrate financial acumen.
